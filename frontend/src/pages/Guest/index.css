@@ -1,0 +1,9 @@
+.picture{
+    width: auto;
+    height: auto;
+    max-width:700px;
+    max-height:430px;
+    margin:0 auto; 
+    display: block;
+}
+

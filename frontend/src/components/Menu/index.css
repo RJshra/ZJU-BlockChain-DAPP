@@ -1,0 +1,21 @@
+.logo {
+    float: left;
+    width: 125px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(187, 180, 169, 0.2);
+  }
+  
+
+  .ant-row-rtl .logo {
+    float: right;
+    margin: 10px 0 16px 24px;
+  }
+  
+  .site-layout-background {
+    background: rgba(250,235,210,0.6);;
+  }
+
+  .word_color{
+    background: rgba(250,235,210,0.4);
+  }
